@@ -3,6 +3,7 @@
 
 .holder{
 	display: flex;
+	justify-content: space-between;
 }
 .box-1{
 	height: 100px;
